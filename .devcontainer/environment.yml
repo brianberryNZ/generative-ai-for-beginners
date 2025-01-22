@@ -1,4 +1,4 @@
-name: <environment-name>
+name: Beginners Gen AI
 channels:
  - defaults
 dependencies:
